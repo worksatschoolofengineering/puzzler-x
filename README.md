@@ -1,14 +1,10 @@
-# Puzzler-X
+# Puzzler-X: Un desafío cautivador de puzzles en Java
 
-## A java video game
+Bienvenido a Puzzler-X, un emocionante juego de puzzles diseñado para poner a prueba tu ingenio y habilidades estratégicas. Sumérgete en un mundo lleno de desafíos lógicos y resuelve una amplia variedad de puzzles en este adictivo juego individual.
 
 
 ![WhatsApp Image 2023-06-13 at 01 31 38](https://github.com/worksatschoolofengineering/puzzler-x/assets/100228633/1376bb1d-0b0a-46d1-add5-19c1fb233a1f)
 
-
-## Puzzler-X: Un desafío cautivador de puzzles en Java
-
-Bienvenido a Puzzler-X, un emocionante juego de puzzles diseñado para poner a prueba tu ingenio y habilidades estratégicas. Sumérgete en un mundo lleno de desafíos lógicos y resuelve una amplia variedad de puzzles en este adictivo juego individual.
 
 ## Características principales:
 
