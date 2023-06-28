@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class PuzzleXApp {
+public class PuzzlerX {
     private JFrame frame;
     private JPanel puzzlePanel;
     private JButton startButton;
@@ -14,7 +14,7 @@ public class PuzzleXApp {
     private Timer timer;
     private int seconds;
     
-    public PuzzleXApp() {
+    public PuzzlerX() {
         // Crear la ventana principal
         frame = new JFrame("Puzzle-X");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
